@@ -8,6 +8,7 @@ package primitives;
  */
 public class Color {
 
+	
 	private double _red;
 	private double _green;
 	private double _blue;
