@@ -14,6 +14,7 @@ public class Material {
 		this._Kd = _Kd;
 		this._Ks = _Ks;
 		this.nShininess = nShininess;
+		
 	}
 	public Material(){
 		_Kd=0;
